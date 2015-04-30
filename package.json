@@ -1,0 +1,27 @@
+{
+  "name": "hyp-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": { "parse":"index.js" },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juancancela/hyp-parser.git"
+  },
+  "keywords": [
+    "hyp",
+    "graph"
+  ],
+  "author": "Juan Carlos Cancela",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juancancela/hyp-parser/issues"
+  },
+  "dependencies":{
+    "mocha":"^2.2.4"
+   },
+  "homepage": "https://github.com/juancancela/hyp-parser"
+}
