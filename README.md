@@ -1,3 +1,3 @@
 # hyp parser for hyperIO framework
 
-json to hyp parser
+json to hyp parser for hiperIO
